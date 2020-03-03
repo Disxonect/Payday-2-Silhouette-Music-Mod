@@ -1,0 +1,4 @@
+<table name="Silhouette">
+    <Localization directory="loc" default="en.txt"/>
+    <MenuMusic id="my_menu_music_name" source="sounds/menu.ogg"/>
+</table>

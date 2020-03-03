@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_my_menu_music_name" : "Silhouette",
+    "menu_jukebox_screen_my_menu_music_name" : "Silhouette"
+}
